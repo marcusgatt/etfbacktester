@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+# Cached market data (re-downloaded on demand) and generated reports
+ETF_Backtester/data/
+ETF_Backtester/reports/
+# Personal contribution tracker (spreadsheets and Apps Script): kept local, not part of this repo
+InvestmentSpreadsheet/
+*.xlsx

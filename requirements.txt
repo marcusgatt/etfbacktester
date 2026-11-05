@@ -1,0 +1,4 @@
+# The backtester, comparisons and robustness tests use only the Python standard library.
+# These are needed only for the portfolio-split plots (split_3d.py, robust_split.py) and the timing tool's charts.
+numpy
+matplotlib
